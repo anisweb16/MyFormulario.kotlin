@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_start">#F2F6FF</color>
+    <color name="bg_end">#EDEAF8</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="outline">#E5E7EB</color>
+    <color name="button_black">#111111</color>
+
+    <!-- Brand colors -->
+    <color name="facebook_blue">#1877F2</color>
+    <color name="facebook_text">#FFFFFF</color>
+
+    <!-- Google button: white background, dark text, subtle border -->
+    <color name="google_text">#202124</color>
+    <color name="google_border">#E0E0E0</color>
+    <color name="google_bg">#F5F7FA</color>
+    <color name="google_ripple">#40202124</color>
+
+</resources>
